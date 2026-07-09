@@ -2,6 +2,7 @@
 
 ![100% Offline](https://img.shields.io/badge/100%25-offline-brightgreen)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
 
 A **100% offline**, self-contained Windows desktop app for:
 
