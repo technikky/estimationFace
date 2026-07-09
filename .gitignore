@@ -1,0 +1,25 @@
+# --- Requested ignores ---
+.claude/
+offline-sdk/
+runtime/
+test/
+
+# --- Build & runtime state ---
+dist/
+logs/
+recordings/
+snapshots/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- Generated at install time ---
+Launch Face Replacement.bat
+recommend.docx
+requirements_offline.txt
+
+# --- Large model weights (bundled/downloaded out-of-band; exceed GitHub 100MB
+#     per-file limit). Provenance + download docs are in README.md. The small
+#     mediapipe face_landmarker.task (~3.6MB) is kept tracked. ---
+models/**/*.onnx
