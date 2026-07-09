@@ -1,5 +1,8 @@
 # estimationFace — Offline Face Estimation Suite
 
+![100% Offline](https://img.shields.io/badge/100%25-offline-brightgreen)
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+
 A **100% offline**, self-contained Windows desktop app for:
 
 | Feature | PRS ref | What it does |
